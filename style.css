@@ -26,6 +26,7 @@ body {
   color: #777;
   max-width: 960px;
   width: 98%;
+  margin: 0px auto;
 }
 
 code {
