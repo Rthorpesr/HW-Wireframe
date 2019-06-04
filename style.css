@@ -46,16 +46,38 @@ code {
   footer {
     margin: 0 1.5% 24px 1.5%;
   }
+
   section {
     float: left;
-    width: 30%;
-  }
-  footer {
-    clear: both;
-    margin-bottom: 0;
+    
   }
   
-  aside {
-    float:left;
-    width: 60%;
+  article {
+    border: solid black 3px;
+    background-color: blue;
+  }   
+
+  div {
+    border: solid black 3px;
+    background-color: white;
+    color: black;
   }
+
+    article p {
+      border: solid black 3px;
+    background-color: white;
+    color: black;
+  }
+
+ aside {
+    float:right; 
+    width: 300px;   
+    
+  }
+  
+  footer {
+    clear: both;
+    margin-top: 30px;
+  }
+  
+ 
